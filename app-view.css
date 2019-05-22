@@ -56,19 +56,19 @@ body {
 }
 
 .count-view:before {
-  font-family: Verdana;
+  font-family: FontAwesome;
   content: "\f06e";
   padding-left: 30%;
 }
 
 .author:before {
-  font-family: Verdana;
+  font-family: FontAwesome;
   content: "\f183";
   padding-left: 30%;
 }
 
 .date-publish:before {
-  font-family: Verdana;
+  font-family: FontAwesome;
   content: "\f073";
   padding-left: 30%;
 }
